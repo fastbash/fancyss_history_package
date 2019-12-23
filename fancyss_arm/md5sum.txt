@@ -1,0 +1,3 @@
+12cad08221dd1a206bdb7c340901d7de shadowsocks_4.2.0.tar.gz
+32bd2a2533280519302c4f3c5216f055 shadowsocks_4.2.1.tar.gz
+47c6b189472994bf38c7e84ff07fc4de shadowsocks_4.2.2.tar.gz
