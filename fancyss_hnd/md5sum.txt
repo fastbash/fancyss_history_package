@@ -1,5 +1,6 @@
-d94a12a6c8b47357c17d29b2782fffd0 shadowsocks_1.7.3.tar.gz
-57e039960c89bc64e374af069f0ee5f2 shadowsocks_1.7.4.tar.gz
-0d4807f83f2ae181250d88f35184c2a0 shadowsocks_1.7.5.tar.gz
-3f7aeac23bc0013325198a06efe4aa56 shadowsocks_1.7.6.tar.gz
-879415d0909c159b677ed21205a8aa54 planesocks_1.7.7.tar.gz
+83bf627b52eb80d7a7b2fcb50132668f fancyss_hnd_full_3.0.4.tar.gz
+4ad36c1c328a83be820c97f935f42ca2 fancyss_hnd_lite_3.0.4.tar.gz
+1a1d0bf9fd54ed8d6836a1e77b76def5 fancyss_hnd_full_3.0.4.1.tar.gz
+aa678dda11c420085a80426014869cbc fancyss_hnd_lite_3.0.4.1.tar.gz
+add6cd760776e1fa607c79bb6a75b00a fancyss_hnd_full_3.0.4.2.tar.gz
+631c66cfeea1807ae7fc3f8049d69207 fancyss_hnd_lite_3.0.4.2.tar.gz

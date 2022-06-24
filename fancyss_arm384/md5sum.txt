@@ -1,2 +1,0 @@
-086baaba8ed499829804a6921e8eb95d shadowsocks_1.0.4.tar.gz
-87a71f5f5cd600afe7816bcbeb615901 planesocks_1.0.5.tar.gz

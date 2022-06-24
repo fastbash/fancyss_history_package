@@ -1,1 +1,1 @@
-# fancyss_history_package
+/usr/local/src/etc/.bash/fancyss/README.md

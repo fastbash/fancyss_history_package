@@ -1,0 +1,5 @@
+12cad08221dd1a206bdb7c340901d7de shadowsocks_4.2.0.tar.gz
+32bd2a2533280519302c4f3c5216f055 shadowsocks_4.2.1.tar.gz
+47c6b189472994bf38c7e84ff07fc4de shadowsocks_4.2.2.tar.gz
+f1a21a215bf11af267b332a10b6f91ec planesocks_4.2.5.tar.gz
+8532456521218b008df4eaecaff6b5ed planesocks_4.2.6.tar.gz
