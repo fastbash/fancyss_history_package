@@ -8,3 +8,5 @@ dea7522a9c1deebd9b8cb0c7c1beeec5 fancyss_hnd_v8_lite_4.3.5.tar.gz
 793f6868d5f3b6a6a56ad3c5020908df fancyss_hnd_v8_lite_4.3.6.tar.gz
 0e62762c9d0992a09d9dfc649af8b723 fancyss_hnd_v8_full_4.3.7.tar.gz
 1a41b41c3766f30406a976efa2cc0717 fancyss_hnd_v8_lite_4.3.7.tar.gz
+07dc23824ce313fe9a0b7488d849bd15 fancyss_hnd_v8_full_4.3.8.tar.gz
+c6e0f7b05d9c36de3e207a9ffb170fd6 fancyss_hnd_v8_lite_4.3.8.tar.gz
